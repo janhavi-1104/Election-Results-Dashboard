@@ -77,11 +77,6 @@ You can customize the dashboard by modifying the following aspects:
 
 Contributions are welcome! If you find any bugs or have suggestions for improvements, please feel free to open an issue or create a pull request.
 
-## Contact Us 📧
-
-If you have any questions, need further assistance or suggestions, please feel free to contact us at [email](mailto:adityakakadeoffice@gmail.com).  
-OR  
-Reach out to us using the [Contact Form](https://forms.gle/cEcJ9uEiz1XVbsuw8).
 
 ## Inspirational Quote for Analysts 📊
 > #### "In the world of data, every insight is a stepping stone towards better decisions and greater success." 🌟
